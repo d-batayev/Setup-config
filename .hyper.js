@@ -12,7 +12,7 @@ module.exports = {
     fontSize: 14,
 
     // font family with optional fallbacks
-    fontFamily: "monospace",
+    fontFamily: "Ubuntu Mono derivative Powerline",
 
     // default font weight: 'normal' or 'bold'
     fontWeight: 'normal',
